@@ -41,7 +41,7 @@ void prf_seqlist(seqlist *l)
     }
     printf("\n");
 }
-
+////
 //列表插入数据
 void listinsert(seqlist *l,int i,int e)
 {
